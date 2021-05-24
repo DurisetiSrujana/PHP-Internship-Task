@@ -1,0 +1,35 @@
+body{   
+    background-image: url(b14.jpg);
+    text-shadow:gray;	
+}  
+#form{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px; 
+    margin-top:160px;
+    padding-top:40px;
+    color:#6666ff;	
+}  
+#btn{  
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left: 2%;  
+}  
+
+
+
+.user-details input{
+ height: 45px;
+  width: 100%;
+  outline: none;
+  font-size: 16px;
+  border-radius: 5px;
+  padding-left: 10px;
+  border: 1px solid #ccc;
+  border-bottom-width: 2px;
+  transition: all 0.3s ease;
+}
